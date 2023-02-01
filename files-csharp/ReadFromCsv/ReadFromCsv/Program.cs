@@ -1,3 +1,3 @@
 ﻿using ReadFromCsv;
 
-ReadMethods.ReadPersons();
+ReadMethods.ReadWorkItems(@"C:\ADO_Export\CM_TestCases.csv");
